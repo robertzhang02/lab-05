@@ -36,7 +36,7 @@ def main():
             delays = []
             for i in range(samples):
                 print(f"[{location}] Sending {size} bytes ({i+1}/{samples})")
-                delay = get_delay('localhost', size)
+                delay = get_delay('172.20.10.10', size) # changed 'localhost' to '192.168.43.198'
                 delays.append(delay)
 
             delay_mean = np.mean(delays)
@@ -46,7 +46,7 @@ def main():
         
     # TODO: create a dataframe from the data
     #       Make sure to name the columns appropriately (see the plot below)
-    df = None
+    df = pd.DataFrame(data, columns=['size', 'location', 'delay_mean', 'delay_std'])
     
     fig = px.line(
         df,
@@ -69,7 +69,5 @@ def main():
     # Question 10: Do you notice any trends in the data?
     #              How does it differ from Part 1?
     #              What do you think is causing the differences?
-
-
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+    	main()
