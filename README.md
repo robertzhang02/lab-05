@@ -46,13 +46,13 @@ Answer for Question 8:
 	Error bars are important because they display an estimated value of the uncertainty or variability of a data set. They could be used to quantify and directly show the level of how much the data deviate from the mean value. Moreover, the error bars visualize the spread of the data set and tells us the reliability of the measured data, which could be extremely useful if we need to present comparsions and contrast between different groups of data. In the case of our lab, we actually need to use the error bars to evaluate the reliability, variability, uncertainty of different group of signal strength data at different locations. 
 	
 Answer for Question 9: 
-	I can oberserve that the signal strength variates when the locations are changed. At certain locations, the signal strength is stronger and the error bars are shorter. When I was at living room and bedroom, the signal strength are higher. And it present less variablity and uncertainty when I was at living room. 
+	I can oberserve that the signal strength variates when the locations are changed. At certain locations, the signal strength is stronger and the error bars are shorter. When I was at bedroom, the signal strength was higher. And it present less variablity and uncertainty when I was at bedroom and living room. 
 	
-	Therefore, I conclude that the signal strength becomes wearker, unstable, and more turbulent as I am moving away from the living room. When I was at living, the signal strength are strongest and stable. 
+	Therefore, I conclude that the signal strength becomes wearker, unstable, and more turbulent as I am moving away from the bedroom. When I was at bedroom, the signal strength was strongest and stable. 
 	
-	I think the distance could be one factor that affecting the signal strength. At my home, the wifi router is located at the living room. Therefore, as I am distanced and farther away from the living room, for example outside of the house, the siganl strength is weaker. 
+	I think the distance could be one factor that affecting the signal strength. At my home, the wifi router is located at the bedroom. Therefore, as I am distanced and farther away from the bedroom, for example outside of the house, the siganl strength is weaker. 
 	
-	In addition to distance, I think interference and obsturctions are the other two factors contributed the weaker signal in certain locations. When I was at my bedroom, there are other wireless deices and appliances which could produece certain level of interference to the wifi signal. Then, when I was at the staircase, the walls and floors could physically block and weaken the wifi signals.
+	In addition to distance, I think interference and obsturctions are the other two factors contributed the weaker signal in certain locations. When I was at livingroom, there are other wireless deices and appliances which could produece certain level of interference to the wifi signal. Then, when I was at the staircase, the walls and floors could physically block and weaken the wifi signals.
 
 Answer for Question 10:
 	In the data graph, we noticed that the place where has higher signal strength will has higher delay.  When the message size increase, the delay will also increase.It is different from part 1 because larger messages require more time to be transmitted over the communication channel. I think it may also cause by the weather. I think the wind and rain change the delay of the message.
